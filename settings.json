@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.fontFamily": "'DaddyTimeMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "eslint.format.enable": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.suggest.showConstructors": false,
+    "eslint.alwaysShowStatus": true,
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "editor.tabSize": 2,
+    "python.formatting.blackPath": "/home/kristen/repos/peacedrobe-server/env/bin/black",
+    "python.formatting.provider": "black",
+    "pomodoro.workTime": 45,
+    "pomodoro.pauseTime": 15,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.codeActionsOnSave": {},
+    "files.autoSaveDelay": 20000,
+    "eslint.quiet": true,
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    // "eslint.workingDirectories": [
+    //     {"directory": "./client", "changeProcessCWD": true}
+    // ],
+}
