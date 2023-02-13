@@ -1,0 +1,7 @@
+set termguicolors
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+
+:command Squash :2,$s/^pick/squash

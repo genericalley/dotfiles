@@ -1,0 +1,21 @@
+[push]
+	default = simple
+[pull]
+	rebase = false
+[rebase]
+	autostash = true
+[core]
+	autocrlf = input
+[tag]
+	annotated = true
+[alias]
+	ci = commit
+	co = checkout
+	st = status
+[pager]
+	branch = false
+[init]
+	defaultBranch = main
+[user]
+	name = Kristen Pietsch
+	email = kristen.pietsch@gmail.com
